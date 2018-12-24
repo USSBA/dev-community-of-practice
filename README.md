@@ -15,4 +15,8 @@ Our group meets virtually every month (usually the 2nd Wed of the month) from 1-
 [*Join by Skype*](https://meet.lync.com/sba123/nrao/HZD3NB36)\
 *Join by Phone* +1 (202) 765-1264
 
-
+## Previous and Upcoming Meetups
+* July 18th - Understanding the basics of Docker (presented by Aaron Brooks)
+* August 15th - Leveraging Docker containers to enable rapid local development (presented by Aaron Brooks)
+* September 12th - Automated Testing and QA practices currently being implemented on a few projects at SBA today (presented by Alex de los Reyes)
+* November 17th - Elasticsearch on Rails on the Certify Program (presented by Aaron Chapman)
