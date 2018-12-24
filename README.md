@@ -19,4 +19,5 @@ Our group meets virtually every month (usually the 2nd Wed of the month) from 1-
 * July 18th - Understanding the basics of Docker (presented by Aaron Brooks)
 * August 15th - Leveraging Docker containers to enable rapid local development (presented by Aaron Brooks)
 * September 12th - Automated Testing and QA practices currently being implemented on a few projects at SBA today (presented by Alex de los Reyes)
-* November 17th - Elasticsearch on Rails on the Certify Program (presented by Aaron Chapman)
+* November 17th - Elasticsearch on Rails for the Certify Program (presented by Aaron Chapman)
+* January 16th - Continued discussion: Elasticsearch on Rails for the Certify Program (presented by Aaron Chapman)
